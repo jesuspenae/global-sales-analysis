@@ -6,7 +6,6 @@ Analysis of global sales data across 12 product categories, 47 countries, and 8 
 
 ## 🛠 Tools Used
 - **Google Sheets** — data cleaning, pivot tables, charts
-- **Chart.js** — interactive dashboard
 
 ---
 
