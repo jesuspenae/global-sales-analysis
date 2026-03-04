@@ -27,9 +27,6 @@ Analysis of global sales data across 12 product categories, 47 countries, and 8 
 - **Office Supplies** leads in revenue ($402.2M).
 - **Europe** accounts for 88.5% of total revenue; Asia contributes only 5.5%.
 - Online vs Offline split is nearly equal: **51.2% Offline / 48.8% Online**.
-- **2012** was the peak year ($285M revenue). A consistent decline followed from 2013.
-- **March** is consistently the strongest month across all years.
-- Average shipping time is **25 days** — no significant correlation found with profit.
 
 ---
 
