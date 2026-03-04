@@ -18,7 +18,6 @@ Analysis of global sales data across 12 product categories, 47 countries, and 8 
 | Total Profit | $501,434,459 |
 | Profit Margin | ~29.5% |
 | Countries Covered | 47 |
-| Units Sold | 6,576,524 |
 
 ---
 
