@@ -45,5 +45,4 @@ Analysis of global sales data across 12 product categories, 47 countries, and 8 
 | File | Description |
 |------|-------------|
 | [📊 Google Sheets](https://docs.google.com/spreadsheets/d/1yA1SUws72hrZHrCepfy5_tGgTUkLC5AyRbqh3bdLE4I/edit?gid=655710705#gid=655710705) | Full analysis with pivot tables and charts |
-| [📄 Findings Document](analisis_ventas_hallazgos_v2.docx) | Detailed findings and business conclusions (Spanish) |
-| [🌐 Interactive Dashboard](sales_dashboard.html) | HTML dashboard with Chart.js visualizations |
+| [📄 Findings Document](https://docs.google.com/document/d/1JmYKXQlOafLkhJaMO4DZ4Yr9PJ6p9pVj7HS2FOJ6JXs/edit?tab=t.0) | Detailed findings and business conclusions |
